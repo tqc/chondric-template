@@ -1,0 +1,19 @@
+{
+  "name": "chondric-template",
+  "author": "Tom Clarkson",
+  "version": "2.0.0",
+  "dependencies": {
+    "chondric": "^2.0.0",
+    "envloader": "0.0.2",
+    "express": "^4.12.3",
+    "gulp": "^3.8.11",
+    "gulp-develop-server": "^0.4.2",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-traceur": "^0.17.1",
+    "source-map-support": "^0.2.10"
+  },
+  "engines": {
+    "node": ">=0.10",
+    "npm": "1"
+  }
+}

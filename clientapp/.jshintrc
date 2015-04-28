@@ -1,0 +1,17 @@
+{
+    "browser": true,
+    "esnext": true,
+    "globals": {
+        "angular": true,
+        "$": true,
+        "app": true,
+        "console": true,
+        "require": true
+    },
+    "globalstrict": false,
+    "quotmark": false,
+    "smarttabs": true,
+    "trailing": true,
+    "undef": true,
+    "unused": "vars"
+}

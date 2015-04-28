@@ -1,0 +1,9 @@
+
+$pageMargins: (".chondric-page": (60px, 0, 100px, 0), ".contentpreview": (60px, 0, 100px, 0));
+
+$spinnerColor: rgb(215, 185, 33);
+$spinnerType: "load8";
+
+$requireIos7: true;
+
+@import "../../node_modules/chondric/es6/css/include.scss";
